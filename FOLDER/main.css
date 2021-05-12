@@ -28,8 +28,10 @@ body {
   p {
     color: black;
     font-size: 100%;
-    text-align: center;
+    text-align: left;
+    text-align: justify;
   }
+  /* Me da toc que los radios esquineros de este rectangulo no sean simetricos xDDDD*/
   .cuadrado1 {
     width: 700px;
     height: 222px;
@@ -41,10 +43,22 @@ body {
   }
   .title {
     width: 600px;
-    height: 180;
+    height: 180px;
     position: absolute;
     left: 50px;
-    top: 0px;
+    top: -5px;
+  }
+  .nombre{
+    text-align: left;
+  }
+  .habilidad{
+    position: absolute;
+    text-align: left;
+    top: 42px;
+  }
+  .descripcion{
+    position: absolute;
+    top: 100px;
   }
   .rectangulo {
     width: 520px;
