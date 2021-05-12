@@ -1,0 +1,73 @@
+body {
+    font-family: system-ui;
+    background: wheat;
+    color: rgb(8, 8, 8);
+    text-align: center;
+  }
+  img {
+    width: 225px;
+    height: 225px;
+    border-radius: 6%;
+    position: absolute;
+    top: 50px;
+    left: 30px;
+  }
+  .circulo1 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+  }
+  h1 {
+    color: black;
+    text-align: center;
+  }
+  h2 {
+    color: cornflowerblue;
+    text-align: center;
+  }
+  p {
+    color: black;
+    font-size: 100%;
+    text-align: center;
+  }
+  .cuadrado1 {
+    width: 700px;
+    height: 222px;
+    background: white;
+    border-radius: 6%;
+    position: relative;
+    left: 275px;
+    top: 44px;
+  }
+  .title {
+    width: 600px;
+    height: 180;
+    position: absolute;
+    left: 50px;
+    top: 0px;
+  }
+  .rectangulo {
+    width: 520px;
+    height: 320px;
+    background: white;
+    border-radius: 6%;
+    position: relative;
+    top: 90px;
+    left: 23px;
+  }
+  .cuadrado3 {
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    top: 50px;
+    left: 80px;
+  }
+  .verticle-line {
+    width: 5px;
+    height: 200px;
+    border-radius: 6%;
+    background-color: cornflowerblue;
+    position: absolute;
+    top: 75px;
+    left: 55px;
+  }
