@@ -104,181 +104,235 @@ p {
   left: 55px;
 }
 .rectanguloeducation{
-width: 380px;
-height: 350px;
-background-color: white;
-border-radius: 6%;
-position: absolute;
-top: 320px;
-left: 575px;
-box-shadow: 2px 2px 5px 1px gray;
+  width: 380px;
+  height: 350px;
+  background-color: white;
+  border-radius: 6%;
+  position: absolute;
+  top: 320px;
+  left: 575px;
+  box-shadow: 2px 2px 5px 1px gray;
 }
 .Education{
-font-size:20px;
-position: relative;
-text-align: left;
-color: cornflowerblue;
-top: 0px;
-left: 55px;
+  font-size:20px;
+  position: relative;
+  text-align: left;
+  color: cornflowerblue;
+  top: 10px;
+  left: 55px;
 
 }
 .cuadradoeducation{
-position: relative;
-top: 30px;
-left: 75px;
+  position: relative;
+  top: 30px;
+  left: 75px;
 }
 .button{
-width: 300px;
-height: 50px;
-background-color: rgb(231, 230, 227);
-border-radius: 6%;
-position: relative;
-top: 50px;
-left: 60px;
+  width: 300px;
+  height: 50px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 6%;
+  box-shadow: 2px 2px 5px 1px gray;
+  position: relative;
+  top: 50px;
+  left: 60px;
 }
 .textoUNI{
-font-weight: bold;
-font-size: 15px;
-padding-top: 15px;
-padding-left: 10px;
+  font-weight: bold;
+  font-size: 15px;
+  padding-top: 15px;
+  padding-left: 10px;
 }
 
 .rectanguloPS {
-width: 520px;
-height: 410px;
-background: white;
-border-radius: 6%;
-position: relative;
-top: 105px;
-left: 23px;
-box-shadow: 2px 2px 5px 1px gray;
+  width: 520px;
+  height: 410px;
+  background: white;
+  border-radius: 6%;
+  position: relative;
+  top: 105px;
+  left: 23px;
+  box-shadow: 2px 2px 5px 1px gray;
 }
 
 .Programming{
-font-size:20px;
-position: relative;
-text-align: left;
-color: cornflowerblue;
-top: 30px;
-left: 55px;
+  font-size:20px;
+  position: relative;
+  text-align: left;
+  color: cornflowerblue;
+  top: 30px;
+  left: 55px;
 }
 
 .TXT1rSK{
-position: relative;
-top: 30px;
-left: 149px;
+  position: relative;
+  top: 30px;
+  left: 149px;
 }
 
 .TXT2nSK{
-position: absolute;
-top: 66px;
-left: 350px;
+  position: absolute;
+  top: 66px;
+  left: 350px;
 }
 
 .circulo2{
-position: absolute;
-width: 400px;
-height: 300px;
-left: 800px;
-top: 1000px;
-background-color: thistle;
-}
+  position: absolute;
+  width: 400px;
+  height: 300px;
+  left: 800px;
+  top: 1000px;
+  background-color: thistle;
+  }
 .quad{
-position: absolute;
-top: 75px;
-left: 80px;
+  position: absolute;
+  top: 75px;
+  left: 80px;
 }
 
+.rectanguloFavorite{
+  width: 380px;
+  height: 410px;
+  background-color: white;
+  box-shadow: 2px 2px 5px 1px gray;
+  border-radius: 6%;
+  position: absolute;
+  top:730px;
+  left:575px;
+
+}
+.Favorite{
+  font-size: 20px;
+  position: relative;
+  text-align: left;
+  color: cornflowerblue;
+  top: 30px;
+  left: 55px;
+}
+.movies {
+  width: 90px;
+  height: 90px;
+  background-color: white;
+  box-shadow: 2px 2px 5px 1px gray;
+  border-radius: 6%;
+  position: absolute;
+  top: 110px;
+  left:75px;
+
+}
+.movies img{
+  width: 20px;
+  height: 20px;
+  top: 150px;
+  left: 23px;
+}
+.travel {
+  width: 90px;
+  height: 90px;
+  background-color: white;
+  box-shadow: 2px 2px 5px 1px gray;
+  border-radius: 6%;
+  position: absolute;
+  top: 170px;
+  left:75px;
+}
+
+.travel img{
+  width: 20px;
+  height: 20px;
+  top: 150px;
+  left: 23px;
+}
 
 .rectanglefooter {
-position: relative;
-padding-top: 40px;
-width: 850px;
-height: 40px;
-background: white;
-border-radius: 6%;
-top: 150px;
-left: 23px;
-box-shadow: 2px 2px 5px 1px gray;
-justify-content: flex-start;
+  position: relative;
+  padding-top: 40px;
+  width: 850px;
+  height: 40px;
+  background: white;
+  border-radius: 6%;
+  top: 150px;
+  left: 23px;
+  box-shadow: 2px 2px 5px 1px gray;
+  justify-content: flex-start;
 }
 
 .imgemail img {
-position: relative;
-max-width: 40px;
-width: 30px;
-height: 30px;
-max-height: 40px;
-border-radius: 6%;
-top: -10px;
-left: -280px;
-display: inline-block;
-border: 1px;
+  position: relative;
+  max-width: 40px;
+  width: 30px;
+  height: 30px;
+  max-height: 40px;
+  border-radius: 6%;
+  top: -10px;
+  left: -280px;
+  display: inline-block;
+  border: 1px;
 }
 
 .imgemail p {
-display: inline-block;
-justify-content: flex-start;
-position: relative;
-top: -20px;
-left: -270px;
+  display: inline-block;
+  justify-content: flex-start;
+  position: relative;
+  top: -20px;
+  left: -270px;
 }
 
 .github img {
-position: relative;
-max-width: 40px;
-width: 30px;
-height: 30px;
-max-height: 40px;
-border-radius: 6%;
-top: -60px;
-left: -67px;
-display: inline-block;
-border: 1px;
+  position: relative;
+  max-width: 40px;
+  width: 30px;
+  height: 30px;
+  max-height: 40px;
+  border-radius: 6%;
+  top: -60px;
+  left: -67px;
+  display: inline-block;
+  border: 1px;
 }
 .github p {
-display: inline-block;
-justify-content: flex-start;
-position: relative;
-top: -70px;
-left: -47px;
+  display: inline-block;
+  justify-content: flex-start;
+  position: relative;
+  top: -70px;
+  left: -47px;
 }
 
 .instagram img {
-position: relative;
-max-width: 40px;
-width: 30px;
-height: 30px;
-max-height: 40px;
-border-radius: 6%;
-top: -110px;
-left: 137px;
-display: inline-block;
-border: 1px;
+  position: relative;
+  max-width: 40px;
+  width: 30px;
+  height: 30px;
+  max-height: 40px;
+  border-radius: 6%;
+  top: -110px;
+  left: 137px;
+  display: inline-block;
+  border: 1px;
 }
 .instagram p {
-display: inline-block;
-justify-content: flex-start;
-position: relative;
-top: -120px;
-left: 147px;
+  display: inline-block;
+  justify-content: flex-start;
+  position: relative;
+  top: -120px;
+  left: 147px;
 }
 .enlace img {
-position: relative;
-max-width: 40px;
-width: 30px;
-height: 30px;
-max-height: 40px;
-border-radius: 6%;
-top: -160px;
-left: 300px;
-display: inline-block;
-border: 1px;
+  position: relative;
+  max-width: 40px;
+  width: 30px;
+  height: 30px;
+  max-height: 40px;
+  border-radius: 6%;
+  top: -160px;
+  left: 300px;
+  display: inline-block;
+  border: 1px;
 }
 .enlace p {
-display: inline-block;
-justify-content: flex-start;
-position: relative;
-top: -170px;
-left: 310px;
+  display: inline-block;
+  justify-content: flex-start;
+  position: relative;
+  top: -170px;
+  left: 310px;
 }
