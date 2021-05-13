@@ -275,3 +275,97 @@ body {
   background-color: navajowhite;
   position: relative;
 }
+
+
+.rectanglefooter {
+  position: relative;
+  padding-top: 40px;
+  max-width: 700px;
+  height: 40px;
+  background: white;
+  border-radius: 6%;
+  top: 150px;
+  left: 23px;
+  box-shadow: 2px 2px 5px 1px gray;
+  justify-content: flex-start;
+}
+
+.imgemail img {
+  position: relative;
+  max-width: 40px;
+  width: 30px;
+  height: 30px;
+  max-height: 40px;
+  border-radius: 6%;
+  top: -10px;
+  left: -220px;
+  display: inline-block;
+  border: 1px;
+}
+
+.imgemail p {
+  display: inline-block;
+  justify-content: flex-start;
+  position: relative;
+  top: -20px;
+  left: -215px;
+}
+
+.github img {
+  position: relative;
+  max-width: 40px;
+  width: 30px;
+  height: 30px;
+  max-height: 40px;
+  border-radius: 6%;
+  top: -60px;
+  left: -40px;
+  display: inline-block;
+  border: 1px;
+}
+.github p {
+  display: inline-block;
+  justify-content: flex-start;
+  position: relative;
+  top: -70px;
+  left: -30px;
+}
+
+.instagram img {
+  position: relative;
+  max-width: 40px;
+  width: 30px;
+  height: 30px;
+  max-height: 40px;
+  border-radius: 6%;
+  top: -110px;
+  left: 100px;
+  display: inline-block;
+  border: 1px;
+}
+.instagram p {
+  display: inline-block;
+  justify-content: flex-start;
+  position: relative;
+  top: -120px;
+  left: 110px;
+}
+.enlace img {
+  position: relative;
+  max-width: 40px;
+  width: 30px;
+  height: 30px;
+  max-height: 40px;
+  border-radius: 6%;
+  top: -160px;
+  left: 230px;
+  display: inline-block;
+  border: 1px;
+}
+.enlace p {
+  display: inline-block;
+  justify-content: flex-start;
+  position: relative;
+  top: -170px;
+  left: 240px;
+}
