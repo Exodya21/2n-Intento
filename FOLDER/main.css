@@ -72,7 +72,7 @@ body {
     box-shadow: 2px 2px 5px 1px gray;
   }
   .cuadrado3 {
-    width: 400px;
+    width: 450px;
     height: 200px;
     position: absolute;
     top: 50px;
@@ -95,3 +95,11 @@ body {
     left: 80px;
     background-color: white;
   }
+  .Experience{
+    font-size: 20px;
+    position: relative;
+    text-align: left;
+    color: cornflowerblue;
+    top: 10px;
+    left: 55px;
+ }
