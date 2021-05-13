@@ -280,7 +280,7 @@ body {
 .rectanglefooter {
   position: relative;
   padding-top: 40px;
-  width: 1000px;
+  width: 850px;
   height: 40px;
   background: white;
   border-radius: 6%;
@@ -298,7 +298,7 @@ body {
   max-height: 40px;
   border-radius: 6%;
   top: -10px;
-  left: -200px;
+  left: -220px;
   display: inline-block;
   border: 1px;
 }
