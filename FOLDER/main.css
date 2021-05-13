@@ -298,7 +298,7 @@ body {
   max-height: 40px;
   border-radius: 6%;
   top: -10px;
-  left: -240px;
+  left: -280px;
   display: inline-block;
   border: 1px;
 }
@@ -308,7 +308,7 @@ body {
   justify-content: flex-start;
   position: relative;
   top: -20px;
-  left: -230px;
+  left: -270px;
 }
 
 .github img {
