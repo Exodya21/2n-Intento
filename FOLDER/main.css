@@ -6,7 +6,7 @@ body {
   }
   .folio{
     width: 1000px;
-    height: 1200px;
+    height: 1350px;
     position: absolute;
     top: 50px;
     left: 80px;
@@ -145,13 +145,34 @@ body {
 
 .rectanguloPS {
   width: 520px;
-  height: 320px;
+  height: 410px;
   background: white;
   border-radius: 6%;
   position: relative;
-  top: 135px;
+  top: 105px;
   left: 23px;
   box-shadow: 2px 2px 5px 1px gray;
+}
+
+.Programming{
+  font-size:20px;
+  position: relative;
+  text-align: left;
+  color: cornflowerblue;
+  top: 30px;
+  left: 55px;
+}
+
+.TXT1rSK{
+  position: relative;
+  top: 30px;
+  left: 149px;
+}
+
+.TXT2nSK{
+  position: absolute;
+  top: 66px;
+  left: 350px;
 }
 
 .circulo2{
