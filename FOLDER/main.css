@@ -142,3 +142,24 @@ body {
   padding-top: 15px;
   padding-left: 10px;
 }
+
+.rectanguloPS {
+  width: 520px;
+  height: 320px;
+  background: white;
+  border-radius: 6%;
+  position: relative;
+  top: 135px;
+  left: 23px;
+  box-shadow: 2px 2px 5px 1px gray;
+}
+
+.circulo2{
+  position: absolute;
+  width: 400px;
+  height: 300px;
+  left: 800px;
+  top: 1000px;
+  background-color: thistle;
+}
+
