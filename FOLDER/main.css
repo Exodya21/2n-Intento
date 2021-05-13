@@ -40,6 +40,7 @@ body {
     position: relative;
     left: 275px;
     top: 44px;
+    box-shadow: 2px 2px 5px 1px gray;
   }
   .title {
     width: 600px;
