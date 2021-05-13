@@ -1,278 +1,284 @@
 body {
-    font-family: system-ui;
-    background: wheat;
-    color: rgb(8, 8, 8);
-    text-align: center;
-  }
-  .folio{
-    width: 1000px;
-    height: 1350px;
-    position: absolute;
-    top: 50px;
-    left: 80px;
-    background-color: white;
-  }
-  img {
-    width: 225px;
-    height: 225px;
-    border-radius: 6%;
-    position: absolute;
-    top: 50px;
-    left: 30px;
-  }
-  .circulo1 {
-    position: absolute;
-    left: 0px;
-    top: 0px;
-  }
-  h1 {
-    color: black;
-    text-align: center;
-  }
-  h2 {
-    color: cornflowerblue;
-    text-align: center;
-  }
-  p {
-    color: black;
-    font-size: 100%;
-    text-align: left;
-    text-align: justify;
-  }
-  /* Me da toc que los radios esquineros de este rectangulo no sean simetricos xDDDD*/
-  .cuadrado1 {
-    width: 680px;
-    height: 222px;
-    background: white;
-    border-radius: 6%;
-    position: relative;
-    left: 275px;
-    top: 50px;
-    box-shadow: 2px 2px 5px 1px gray;
-  }
-  .title {
-    width: 600px;
-    height: 180px;
-    position: absolute;
-    left: 50px;
-    top: -5px;
-  }
-  .nombre{
-    text-align: left;
-  }
-  .habilidad{
-    position: absolute;
-    text-align: left;
-    top: 42px;
-  }
-  .descripcion{
-    position: absolute;
-    top: 100px;
-  }
-  .rectangulo {
-    width: 520px;
-    height: 350px;
-    background: white;
-    border-radius: 6%;
-    position: relative;
-    top: 75px;
-    left: 23px;
-    box-shadow: 2px 2px 5px 1px gray;
-  }
-  .TextEXP{
-    width: 450px;
-    height: 200px;
-    position: absolute;
-    top: 80px;
-    left: 80px;
-  }
-  .verticle-line {
-    width: 5px;
-    height: 200px;
-    border-radius: 6%;
-    background-color: cornflowerblue;
-    position: absolute;
-    top: 100px;
-    left: 55px;
-  }
-  .Experience{
-    font-size: 20px;
-    position: relative;
-    text-align: left;
-    color: cornflowerblue;
-    top: 30px;
-    left: 55px;
- }
- .rectanguloeducation{
-  width: 380px;
-  height: 350px;
+  font-family: system-ui;
+  background: wheat;
+  color: rgb(8, 8, 8);
+  text-align: center;
+}
+.folio{
+  width: 1000px;
+  height: 1350px;
+  position: absolute;
+  top: 50px;
+  left: 80px;
   background-color: white;
+}
+img {
+  width: 225px;
+  height: 225px;
   border-radius: 6%;
   position: absolute;
-  top: 320px;
-  left: 575px;
-  box-shadow: 2px 2px 5px 1px gray;
-}
-.Education{
-  font-size:20px;
-  position: relative;
-  text-align: left;
-  color: cornflowerblue;
-  top: 0px;
-  left: 55px;
-
-}
-.cuadradoeducation{
-  position: relative;
-  top: 30px;
-  left: 75px;
-}
-.button{
-  width: 300px;
-  height: 50px;
-  background-color: rgb(231, 230, 227);
-  border-radius: 6%;
-  position: relative;
   top: 50px;
-  left: 60px;
+  left: 30px;
 }
-.textoUNI{
-  font-weight: bold;
-  font-size: 15px;
-  padding-top: 15px;
-  padding-left: 10px;
+.circulo1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
 }
-
-.rectanguloPS {
-  width: 520px;
-  height: 410px;
+h1 {
+  color: black;
+  text-align: center;
+}
+h2 {
+  color: cornflowerblue;
+  text-align: center;
+}
+p {
+  color: black;
+  font-size: 100%;
+  text-align: left;
+  text-align: justify;
+}
+/* Me da toc que los radios esquineros de este rectangulo no sean simetricos xDDDD*/
+.cuadrado1 {
+  width: 680px;
+  height: 222px;
   background: white;
   border-radius: 6%;
   position: relative;
-  top: 105px;
+  left: 275px;
+  top: 50px;
+  box-shadow: 2px 2px 5px 1px gray;
+}
+.title {
+  width: 600px;
+  height: 180px;
+  position: absolute;
+  left: 50px;
+  top: -5px;
+}
+.nombre{
+  text-align: left;
+}
+.habilidad{
+  position: absolute;
+  text-align: left;
+  top: 42px;
+}
+.descripcion{
+  position: absolute;
+  top: 100px;
+}
+.rectangulo {
+  width: 520px;
+  height: 350px;
+  background: white;
+  border-radius: 6%;
+  position: relative;
+  top: 75px;
   left: 23px;
   box-shadow: 2px 2px 5px 1px gray;
 }
-
-.Programming{
-  font-size:20px;
+.TextEXP{
+  width: 450px;
+  height: 200px;
+  position: absolute;
+  top: 80px;
+  left: 80px;
+}
+.verticle-line {
+  width: 5px;
+  height: 200px;
+  border-radius: 6%;
+  background-color: cornflowerblue;
+  position: absolute;
+  top: 100px;
+  left: 55px;
+}
+.Experience{
+  font-size: 20px;
   position: relative;
   text-align: left;
   color: cornflowerblue;
   top: 30px;
   left: 55px;
 }
+.rectanguloeducation{
+width: 380px;
+height: 350px;
+background-color: white;
+border-radius: 6%;
+position: absolute;
+top: 320px;
+left: 575px;
+box-shadow: 2px 2px 5px 1px gray;
+}
+.Education{
+font-size:20px;
+position: relative;
+text-align: left;
+color: cornflowerblue;
+top: 0px;
+left: 55px;
+
+}
+.cuadradoeducation{
+position: relative;
+top: 30px;
+left: 75px;
+}
+.button{
+width: 300px;
+height: 50px;
+background-color: rgb(231, 230, 227);
+border-radius: 6%;
+position: relative;
+top: 50px;
+left: 60px;
+}
+.textoUNI{
+font-weight: bold;
+font-size: 15px;
+padding-top: 15px;
+padding-left: 10px;
+}
+
+.rectanguloPS {
+width: 520px;
+height: 410px;
+background: white;
+border-radius: 6%;
+position: relative;
+top: 105px;
+left: 23px;
+box-shadow: 2px 2px 5px 1px gray;
+}
+
+.Programming{
+font-size:20px;
+position: relative;
+text-align: left;
+color: cornflowerblue;
+top: 30px;
+left: 55px;
+}
 
 .TXT1rSK{
-  position: relative;
-  top: 30px;
-  left: 149px;
+position: relative;
+top: 30px;
+left: 149px;
 }
 
 .TXT2nSK{
-  position: absolute;
-  top: 66px;
-  left: 350px;
+position: absolute;
+top: 66px;
+left: 350px;
 }
 
 .circulo2{
-  position: absolute;
-  width: 400px;
-  height: 300px;
-  left: 800px;
-  top: 1000px;
-  background-color: thistle;
+position: absolute;
+width: 400px;
+height: 300px;
+left: 800px;
+top: 1000px;
+background-color: thistle;
 }
-.container1{
-  width: 20px;
-  height: 270px;
-  position: absolute;
-  top: 85px;
-  left: 80px;
-  box-shadow: 2px 2px 5px 1px gray;
-  }
-.color1{
-  width: 20px;
-  height: 20px;
-  background-color: navajowhite;
-  position: relative;
-}
-.color1{
-  width: 20px;
-  height: 20px;
-  background-color: navajowhite;
-  position: relative;
-}
-.color1{
-  width: 20px;
-  height: 20px;
-  background-color: navajowhite;
-  position: relative;
-}
-.color1{
-  width: 20px;
-  height: 20px;
-  background-color: navajowhite;
-  position: relative;
-}
-.color1{
-  width: 20px;
-  height: 20px;
-  background-color: navajowhite;
-  position: relative;
-}
-.color1{
-  width: 20px;
-  height: 20px;
-  background-color: navajowhite;
-  position: relative;
-}
-.color1{
-  width: 20px;
-  height: 20px;
-  background-color: navajowhite;
-  position: relative;
-}
-.color1{
-  width: 20px;
-  height: 20px;
-  background-color: navajowhite;
-  position: relative;
-}
-.color1{
-  width: 20px;
-  height: 20px;
-  background-color: navajowhite;
-  position: relative;
-}
-.color1{
-  width: 20px;
-  height: 20px;
-  background-color: navajowhite;
-  position: relative;
-}
-.color1{
-  width: 20px;
-  height: 20px;
-  background-color: navajowhite;
-  position: relative;
-}
-.color1{
-  width: 20px;
-  height: 20px;
-  background-color: navajowhite;
-  position: relative;
-}
-.color1{
-  width: 20px;
-  height: 20px;
-  background-color: navajowhite;
-  position: relative;
-}
-.color1{
-  width: 20px;
-  height: 20px;
-  background-color: navajowhite;
-  position: relative;
+.quad{
+position: absolute;
+top: 75px;
+left: 80px;
 }
 
+
+.rectanglefooter {
+position: relative;
+padding-top: 40px;
+width: 850px;
+height: 40px;
+background: white;
+border-radius: 6%;
+top: 150px;
+left: 23px;
+box-shadow: 2px 2px 5px 1px gray;
+justify-content: flex-start;
+}
+
+.imgemail img {
+position: relative;
+max-width: 40px;
+width: 30px;
+height: 30px;
+max-height: 40px;
+border-radius: 6%;
+top: -10px;
+left: -280px;
+display: inline-block;
+border: 1px;
+}
+
+.imgemail p {
+display: inline-block;
+justify-content: flex-start;
+position: relative;
+top: -20px;
+left: -270px;
+}
+
+.github img {
+position: relative;
+max-width: 40px;
+width: 30px;
+height: 30px;
+max-height: 40px;
+border-radius: 6%;
+top: -60px;
+left: -67px;
+display: inline-block;
+border: 1px;
+}
+.github p {
+display: inline-block;
+justify-content: flex-start;
+position: relative;
+top: -70px;
+left: -47px;
+}
+
+.instagram img {
+position: relative;
+max-width: 40px;
+width: 30px;
+height: 30px;
+max-height: 40px;
+border-radius: 6%;
+top: -110px;
+left: 137px;
+display: inline-block;
+border: 1px;
+}
+.instagram p {
+display: inline-block;
+justify-content: flex-start;
+position: relative;
+top: -120px;
+left: 147px;
+}
+.enlace img {
+position: relative;
+max-width: 40px;
+width: 30px;
+height: 30px;
+max-height: 40px;
+border-radius: 6%;
+top: -160px;
+left: 300px;
+display: inline-block;
+border: 1px;
+}
+.enlace p {
+display: inline-block;
+justify-content: flex-start;
+position: relative;
+top: -170px;
+left: 310px;
+}
