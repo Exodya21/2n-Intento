@@ -85,3 +85,14 @@ body {
     top: 75px;
     left: 55px;
   }
+
+
+  
+  .folio{
+    width: 1000px;
+    height: 1200px;
+    position: absolute;
+    top: 50px;
+    left: 80px;
+    background-color: white;
+  }
