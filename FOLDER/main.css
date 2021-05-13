@@ -358,7 +358,7 @@ body {
   max-height: 40px;
   border-radius: 6%;
   top: -160px;
-  left: 260px;
+  left: 300px;
   display: inline-block;
   border: 1px;
 }
@@ -367,5 +367,5 @@ body {
   justify-content: flex-start;
   position: relative;
   top: -170px;
-  left: 270px;
+  left: 310px;
 }
