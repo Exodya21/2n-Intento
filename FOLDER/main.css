@@ -69,6 +69,7 @@ body {
     position: relative;
     top: 90px;
     left: 23px;
+    box-shadow: 2px 2px 5px 1px gray;
   }
   .cuadrado3 {
     width: 400px;
