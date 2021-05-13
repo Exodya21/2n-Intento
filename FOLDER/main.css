@@ -33,13 +33,13 @@ body {
   }
   /* Me da toc que los radios esquineros de este rectangulo no sean simetricos xDDDD*/
   .cuadrado1 {
-    width: 700px;
+    width: 680px;
     height: 222px;
     background: white;
     border-radius: 6%;
     position: relative;
     left: 275px;
-    top: 44px;
+    top: 50px;
     box-shadow: 2px 2px 5px 1px gray;
   }
   .title {
@@ -63,11 +63,11 @@ body {
   }
   .rectangulo {
     width: 520px;
-    height: 320px;
+    height: 350px;
     background: white;
     border-radius: 6%;
     position: relative;
-    top: 90px;
+    top: 75px;
     left: 23px;
     box-shadow: 2px 2px 5px 1px gray;
   }
@@ -75,7 +75,7 @@ body {
     width: 450px;
     height: 200px;
     position: absolute;
-    top: 50px;
+    top: 80px;
     left: 80px;
   }
   .verticle-line {
@@ -84,7 +84,7 @@ body {
     border-radius: 6%;
     background-color: cornflowerblue;
     position: absolute;
-    top: 75px;
+    top: 100px;
     left: 55px;
   }
   .folio{
@@ -100,6 +100,45 @@ body {
     position: relative;
     text-align: left;
     color: cornflowerblue;
-    top: 10px;
+    top: 30px;
     left: 55px;
  }
+ .rectanguloeducation{
+  width: 380px;
+  height: 350px;
+  background-color: white;
+  border-radius: 6%;
+  position: absolute;
+  top: 320px;
+  left: 575px;
+  box-shadow: 2px 2px 5px 1px gray;
+}
+.Education{
+  font-size:20px;
+  position: relative;
+  text-align: left;
+  color: cornflowerblue;
+  top: 0px;
+  left: 55px;
+
+}
+.cuadradoeducation{
+  position: relative;
+  top: 30px;
+  left: 75px;
+}
+.button{
+  width: 300px;
+  height: 50px;
+  background-color: rgb(231, 230, 227);
+  border-radius: 6%;
+  position: relative;
+  top: 50px;
+  left: 60px;
+}
+.textoUNI{
+  font-weight: bold;
+  font-size: 15px;
+  padding-top: 15px;
+  padding-left: 10px;
+}
