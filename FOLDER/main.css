@@ -319,7 +319,7 @@ body {
   max-height: 40px;
   border-radius: 6%;
   top: -60px;
-  left: -40px;
+  left: -80px;
   display: inline-block;
   border: 1px;
 }
@@ -328,7 +328,7 @@ body {
   justify-content: flex-start;
   position: relative;
   top: -70px;
-  left: -30px;
+  left: -70px;
 }
 
 .instagram img {
