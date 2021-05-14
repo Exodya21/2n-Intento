@@ -310,7 +310,7 @@ p {
   height: 30px;
   max-height: 40px;
   border-radius: 6%;
-  top: -140px;
+  top: -1250px;
   left: 137px;
   display: inline-block;
   border: 1px;
@@ -319,7 +319,7 @@ p {
   display: inline-block;
   justify-content: flex-start;
   position: relative;
-  top: -150px;
+  top: -160px;
   left: 147px;
 }
 .enlace img {
