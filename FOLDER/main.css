@@ -209,17 +209,6 @@ p {
   top: 6px;
   left: 55px;
 }
-.movies {
-  width: 90px;
-  height: 90px;
-  background-color: white;
-  box-shadow: 2px 2px 5px 1px gray;
-  border-radius: 6%;
-  position: absolute;
-  top: 110px;
-  left:75px;
-
-}
 
 .travel {
   width: 90px;
