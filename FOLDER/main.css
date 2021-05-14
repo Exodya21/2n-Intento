@@ -15,7 +15,7 @@ body {
 img {
   width: 225px;
   height: 225px;
-  border-radius: 6%;
+  border-radius: 10px;
   position: absolute;
   top: 50px;
   left: 30px;
@@ -44,7 +44,7 @@ p {
   width: 680px;
   height: 222px;
   background: white;
-  border-radius: 6%;
+  border-radius: 10px;
   position: relative;
   left: 275px;
   top: 50px;
@@ -73,7 +73,7 @@ p {
   width: 520px;
   height: 350px;
   background: white;
-  border-radius: 6%;
+  border-radius: 10px;
   position: relative;
   top: 75px;
   left: 23px;
@@ -107,9 +107,9 @@ p {
   width: 380px;
   height: 350px;
   background-color: white;
-  border-radius: 6%;
+  border-radius: 10px;
   position: absolute;
-  top: 320px;
+  top: 324px;
   left: 575px;
   box-shadow: 2px 2px 5px 1px gray;
 }
@@ -148,7 +148,7 @@ p {
   width: 520px;
   height: 410px;
   background: white;
-  border-radius: 6%;
+  border-radius: 10px;
   position: relative;
   top: 105px;
   left: 23px;
@@ -190,24 +190,26 @@ p {
   left: 80px;
 }
 
-.rectanguloFavorite{
+.rectanguloFavorite {
+  opacity: 85%;
   width: 380px;
   height: 410px;
   background-color: white;
   box-shadow: 2px 2px 5px 1px gray;
-  border-radius: 6%;
+  border-radius: 10px;
   position: absolute;
   top:730px;
   left:575px;
+  
 
 }
 .Favorite{
   font-size: 20px;
-  position: relative;
+  position: absolute;
   text-align: left;
   color: cornflowerblue;
-  top: 6px;
-  left: 55px;
+  top: 734px;
+  left: 640px;
 }
 
 .travel {
@@ -217,8 +219,8 @@ p {
   box-shadow: 2px 2px 5px 1px gray;
   border-radius: 6%;
   position: absolute;
-  top: 110px;
-  left: 210px;
+  top: 840px;
+  left: 780px;
 }
 
 .travel img {
@@ -244,8 +246,8 @@ p {
   box-shadow: 2px 2px 5px 1px gray;
   border-radius: 6%;
   position: absolute;
-  top: 110px;
-  left: 75px;
+  top: 840px;
+  left: 640px;
 }
 .movies img {
   width: 52px;
@@ -265,8 +267,8 @@ p {
   position: absolute;
   width: 90px;
   height: 90px;
-  top: 240px;
-  left: 75px;
+  top: 970px;
+  left: 640px;
   background-color: white;
   box-shadow: 2px 2px 5px 1px gray;
   border-radius: 6px;
@@ -296,8 +298,8 @@ p {
   background-color:white;
   box-shadow: 2px 2px 5px 1px gray;
   border-radius: 6%;
-  top: 240px;
-  left: 210px; 
+  top: 970px;
+  left: 780px; 
 
 }
 .Imagine img {
@@ -324,7 +326,7 @@ p {
   width: 940px;
   height: 40px;
   background: white;
-  border-radius: 6%;
+  border-radius: 10px;
   top: 150px;
   left: 23px;
   box-shadow: 2px 2px 5px 1px gray;
