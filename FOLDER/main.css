@@ -217,15 +217,15 @@ p {
   box-shadow: 2px 2px 5px 1px gray;
   border-radius: 6%;
   position: absolute;
-  top: 100px;
-  left: 200px;
+  top: 110px;
+  left: 210px;
 }
 
 .travel img {
   width: 52px;
   height: 52px;
   top: 12px;
-  left: 23px;
+  left: 20px;
 }
 .travel p {
   font-size: 14px;
@@ -233,7 +233,7 @@ p {
   text-align: left;
   color: cornflowerblue;
   top: 52px;
-  left: 27px;
+  left: 24px;
   
 }
 
@@ -244,14 +244,14 @@ p {
   box-shadow: 2px 2px 5px 1px gray;
   border-radius: 6%;
   position: absolute;
-  top: 100px;
-  left: 80px;
+  top: 110px;
+  left: 75px;
 }
 .movies img {
   width: 52px;
   height: 52px;
   top: 12px;
-  left: 23px;
+  left: 20px;
 }
 .movies p {
   font-size: 14px;
@@ -259,9 +259,64 @@ p {
   text-align: left;
   color: cornflowerblue;
   top: 52px;
-  left: 27px;
+  left: 24px;
+}
+.Painting{
+  position: absolute;
+  width: 90px;
+  height: 90px;
+  top: 240px;
+  left: 75px;
+  background-color: white;
+  box-shadow: 2px 2px 5px 1px gray;
+  border-radius: 6px;
+  
+}
+.Painting img {
+  position:relative;
+  width: 52px;
+  height: 52px;
+  top: 10px;
+  left: 0px;
 }
 
+.Painting p {
+  font-size: 14px;
+  position: relative;
+  text-align: left;
+  color: cornflowerblue;
+  top: 0px;
+  left: 20px;
+}
+
+.Imagine {
+  position: absolute;
+  width: 90px;
+  height: 90px;
+  background-color:white;
+  box-shadow: 2px 2px 5px 1px gray;
+  border-radius: 6%;
+  top: 240px;
+  left: 210px; 
+
+}
+.Imagine img {
+  position: relative;
+  width: 52px;
+  height: 52px;
+  top: 10px;
+  left: 0px;
+  
+}
+
+.Imagine p{
+  font-size: 14px;
+  position: relative;
+  text-align: left;
+  color: cornflowerblue;
+  top: 0px;
+  left: 21px;
+}
 
 .rectanglefooter {
   position: relative;
